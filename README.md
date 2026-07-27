@@ -12,6 +12,26 @@ The objective of this project is to uncover key insights into how Netflix's cont
 
 ## 📊 Key Visualizations & Insights
 
+### 1. Movies vs. TV Shows Comparison
+Visualizes the proportion of Movies vs.Looking at your `README.md` file draft, there actually isn't a "How to Run the Project" section written out yet! 
+
+However, if you want to clean up the bottom section (like line 42, which currently has `🎥 Project Demo` without heading formatting `##`), here is a cleaned-up, ready-to-paste version of your README content:
+
+```markdown
+# 🎬 Netflix Data Analysis using Python
+
+An Exploratory Data Analysis (EDA) project analyzing Netflix’s content catalog using **Python**, **Pandas**, and **Matplotlib**. This project explores trends in movie durations, content ratings, regional production distributions, and growth over time.
+
+---
+
+## 📌 Project Overview
+
+The objective of this project is to uncover key insights into how Netflix's content offerings have evolved over the years. By analyzing the dataset, we examine patterns across content types, age ratings, runtime distributions, and top producing countries.
+
+---
+
+## 📊 Key Visualizations & Insights
+
 Here are the main analyses generated in this project:
 
 1. **Movies vs. TV Shows Comparison**
@@ -39,9 +59,8 @@ Here are the main analyses generated in this project:
 
 ---
 
-## 🚀 How to Run the Project
+## 🎥 Project Demo
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/aireenfatma/Netflix_Data_Analysis_using_Python.git](https://github.com/aireenfatma/Netflix_Data_Analysis_using_Python.git)
-   cd Netflix_Data_Analysis_using_Python
+Check out the full project walkthrough and video demo on LinkedIn:
+
+👉 [Watch the LinkedIn Video Demo](YOUR_LINKEDIN_URL_HERE)
