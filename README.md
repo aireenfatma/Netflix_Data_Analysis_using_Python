@@ -59,4 +59,4 @@ A horizontal bar chart identifying the top content-producing countries led by th
 
 Check out the full project walkthrough and video demo on LinkedIn:
 
-👉 [Watch the LinkedIn Video Demo](YOUR_LINKEDIN_POST_URL_HERE)
+👉 [Watch the LinkedIn Video Demo](https://www.linkedin.com/posts/aireen-fatma_dataanalysis-python-pandas-ugcPost-7487392773587922944-tamg/?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk)
